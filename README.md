@@ -3,9 +3,6 @@ This is expected to be added as Ring middleware that runs after ring.json.middle
 
 ## Installation
 Add this to your leiningen project
-```
-[org.bytescale.keywordize-json-body "0.0.1"]
-```
 
 [![Clojars Project](http://clojars.org/org.bytescale.keywordize-json-body/latest-version.svg)](http://clojars.org/org.bytescale.keywordize-json-body)
 
